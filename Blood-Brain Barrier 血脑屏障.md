@@ -9,3 +9,6 @@ The blood–brain barrier restricts the passage of pathogens, the diffusion of�
 Specialized brain structures participating in sensory and secretory integration within brain neural circuits—the circumventricular organs and choroid plexus—have highly permeable capillaries.[7]
 
 注释位置见维基百科页面。
+
+![Solute permeability at the BBB
+vs. choroid plexus](https://github.com/lifescience4ever/Files/blob/main/Solute%20permeability%20at%20the%20BBB%20vs.%20choroid%20plexus.jpg)
